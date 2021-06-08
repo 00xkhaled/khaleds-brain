@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-## test 3
 <!--
 **khaleds-brain/khaleds-brain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
