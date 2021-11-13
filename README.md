@@ -13,7 +13,7 @@ I develop software, build technical communities, create content and love meeting
 [![00xkhaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaleds-brain&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/khaleds-brain/github-readme-stats)
 
 
-👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/khaledd) and add to my knowledge! 
+👇🏻 If you like what I do, support me by buying me a [Coffee](https://www.buymeacoffee.com/khaledd) and add to my knowledge! 
 
 <a href="https://www.buymeacoffee.com/khaledd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
 
